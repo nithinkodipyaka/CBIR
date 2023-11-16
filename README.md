@@ -31,7 +31,7 @@ The system uses the [Caltech256 dataset](http://www.vision.caltech.edu/Image_Dat
 3. Run the Flask application using the following command:
 
     ```bash
-    python3 fun.py
+    python3 funn.py
     ```
 
 ## Usage

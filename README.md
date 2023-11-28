@@ -1,6 +1,6 @@
 # Content-Based Image Retrieval (CBIR) System
 
-This repository contains a Content-Based Image Retrieval (CBIR) system implemented in Python using TensorFlow, VGG-16, and Flask. The system is designed to retrieve visually similar images from the Caltech256 dataset.
+This repository features a Content-Based Image Retrieval (CBIR) system implemented in Python using TensorFlow, VGG-16, and Flask. The system is designed to retrieve visually similar images from the Caltech256 dataset. The Flask application utilizes various functionalities, including file handling, image processing, and integration with a pre-trained VGGNet model. The extracted features are stored in an H5 file, and the Flask app allows users to upload images, perform image similarity searches, and view the results. Additionally, the system incorporates a function to fetch external images from Unsplash based on the predicted image category. The code includes routes for the home page, image description page, and an about page. The repository aims to provide an interactive and visually engaging image retrieval experience.
 
 ## Prerequisites
 

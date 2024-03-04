@@ -12,7 +12,7 @@ This repository features a Content-Based Image Retrieval (CBIR) system implement
 
 ## Dataset
 
-The system uses the [Caltech256 dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/). Please download the dataset from the official website.
+The system uses the [Caltech256 dataset](https://data.caltech.edu/records/nyy15-4j048). Please download the dataset from the official website.
 
 ## CBIR Model Execution and Feature Training
 

@@ -4,24 +4,24 @@ This repository features a Content-Based Image Retrieval (CBIR) system implement
 
 ## Prerequisites
 
-- Python 3.7
+- Python 3.10
 - TensorFlow
 - Keras
 - Flask
-- Other dependencies (See `tensorflow.yml` file)
+- Other dependencies (See `tensorflow.yml` and `requirements.txt`)
 
 ## Dataset
 
 The system uses the [Caltech256 dataset](http://www.vision.caltech.edu/Image_Datasets/Caltech101/). Please download the dataset from the official website.
 
-## How to Execute
+## CBIR Model Execution and Feature Training
 
-1. Open the Jupyter Notebook file `CBIR2.pynb` in a Jupyter Notebook environment.
+1. Open the Jupyter Notebook file `CBIR.ipynb` in a Jupyter Notebook environment.
 2. Follow the instructions provided within the notebook to run the CBIR system.
 
-## How to Run the Server
+## Direct Usage
 
-1. Activate the virtual environment (if used).
+1. Activate the virtual environment (if used). Install all dependencies from `tensorflow.yml` and `requirements.txt`
 2. Change the directory to `flaskCBIR`.
 
     ```bash
@@ -31,10 +31,10 @@ The system uses the [Caltech256 dataset](http://www.vision.caltech.edu/Image_Dat
 3. Run the Flask application using the following command:
 
     ```bash
-    python3 funn3.py
+    python3 CBIR_app.py
     ```
 
-## Usage
+## Output
 
 1. Visit the home page at [http://localhost:5000/](http://localhost:5000/).
 2. Upload an image to find visually similar images from the dataset.

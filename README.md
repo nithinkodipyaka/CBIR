@@ -43,9 +43,9 @@ The system uses the [Caltech256 dataset](https://data.caltech.edu/records/nyy15-
 2. Upload an image to find visually similar images from the dataset.
 3. Explore the search results and click on images for detailed descriptions.
 
-![Example Image 1](img/img1.png)
-![Example Image 2](img/img2.png)
-![Example Image 3](img/img3.png)
+![Example Image 1](Img/Img1.png)
+![Example Image 2](Img/img2.png)
+![Example Image 3](Img/Img3.png)
 
 ## Contributing
 

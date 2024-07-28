@@ -49,10 +49,12 @@ The system uses the [Caltech256 dataset](https://data.caltech.edu/records/nyy15-
 ![Example Image 2](Img/img2.png)
 ![Example Image 3](Img/Img3.png)
 
+## License
+This project is licensed under the terms of the LICENSE file.
+
 ## Contributing
 
 Feel free to contribute to this project by opening issues or submitting pull requests. Your contributions are highly appreciated!
-
 
 **Note:** Please ensure that you have the required dependencies installed and have downloaded the Caltech256 dataset before running the system.
 
